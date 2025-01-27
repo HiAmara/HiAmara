@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @HiAmara, I'm an Engineering Student
+- 👋 Hi, I’m @HiAmara, I'm an Industrial Engineering Student
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning OCR in Python and Data Visualization in R
-- 🛠️ Other Projects and Classes I will be working on this Semester: building a Knowledge Graph to analyze pharmaceutical supply chains, Data Driven Algorithms in Vehicle Technology
+- 🌱 I’m currently learning React, ROS and Figma for my final project
