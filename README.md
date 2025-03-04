@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @HiAmara, I'm an Industrial Engineering Student
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning React, ROS and Figma for my final project
+
